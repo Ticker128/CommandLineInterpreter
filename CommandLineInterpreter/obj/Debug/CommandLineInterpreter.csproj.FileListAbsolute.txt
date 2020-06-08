@@ -1,0 +1,7 @@
+C:\Users\efw12\С#Projects\CommandLineInterpreter\obj\Debug\CommandLineInterpreter.csprojAssemblyReference.cache
+C:\Users\efw12\С#Projects\CommandLineInterpreter\obj\Debug\CommandLineInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\efw12\С#Projects\CommandLineInterpreter\bin\Debug\CommandLineInterpreter.exe.config
+C:\Users\efw12\С#Projects\CommandLineInterpreter\bin\Debug\CommandLineInterpreter.exe
+C:\Users\efw12\С#Projects\CommandLineInterpreter\bin\Debug\CommandLineInterpreter.pdb
+C:\Users\efw12\С#Projects\CommandLineInterpreter\obj\Debug\CommandLineInterpreter.exe
+C:\Users\efw12\С#Projects\CommandLineInterpreter\obj\Debug\CommandLineInterpreter.pdb
